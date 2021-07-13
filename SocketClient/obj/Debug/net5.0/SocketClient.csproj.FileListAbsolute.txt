@@ -1,0 +1,16 @@
+C:\Users\chiem\source\repos\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.exe
+C:\Users\chiem\source\repos\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.deps.json
+C:\Users\chiem\source\repos\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.runtimeconfig.json
+C:\Users\chiem\source\repos\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.runtimeconfig.dev.json
+C:\Users\chiem\source\repos\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.dll
+C:\Users\chiem\source\repos\SocketClient\SocketClient\bin\Debug\net5.0\ref\SocketClient.dll
+C:\Users\chiem\source\repos\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.pdb
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.csprojAssemblyReference.cache
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.AssemblyInfoInputs.cache
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.AssemblyInfo.cs
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.dll
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\ref\SocketClient.dll
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.pdb
+C:\Users\chiem\source\repos\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.genruntimeconfig.cache
